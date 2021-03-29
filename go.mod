@@ -19,7 +19,7 @@ require (
 	github.com/github-release/github-release v0.10.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gofrs/flock v0.8.0
-	github.com/golangci/golangci-lint v1.35.2
+	github.com/golangci/golangci-lint v1.39.0
 	github.com/gomarkdown/markdown v0.0.0-20201113031856-722100d81a8e // indirect
 	github.com/goreleaser/goreleaser v0.154.0
 	github.com/instrumenta/kubeval v0.0.0-20190918223246-8d013ec9fc56
@@ -30,14 +30,13 @@ require (
 	github.com/kubicorn/kubicorn v0.0.0-20180829191017-06f6bce92acc
 	github.com/lithammer/dedent v1.1.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.3.0
-	github.com/nxadm/tail v1.4.6 // indirect
 	github.com/onsi/ginkgo v1.15.0
 	github.com/onsi/gomega v1.10.5
 	github.com/pelletier/go-toml v1.8.1
 	github.com/pkg/errors v0.9.1
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/spf13/afero v1.5.1
-	github.com/spf13/cobra v1.1.1
+	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.6.8
@@ -50,7 +49,6 @@ require (
 	github.com/weaveworks/logger v0.0.0-20210210175120-de9359622dfc
 	github.com/whilp/git-urls v0.0.0-20191001220047-6db9661140c0
 	golang.org/x/mod v0.4.1 // indirect
-	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
 	golang.org/x/tools v0.1.0
 	k8s.io/api v0.19.5
 	k8s.io/apiextensions-apiserver v0.19.5
